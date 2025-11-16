@@ -1,1 +1,2 @@
 # odin-recipes
+A simple project on HTML. Where I will use my knowledge of making paragraphs, titles, lists and inserting other webpages and images. I will use these skills to make a recipe list and description.
